@@ -4,7 +4,8 @@
 Roster upload and get the data based on the roster for the airline process:
 1. Install Php 8.2
 2. git clone the project
-3. run the artisan commands to execute the project
+3. run the migrations 
+4. then run the artisan commands to execute the project
 
 ## URLS for access the APIs
 
