@@ -1,5 +1,5 @@
 
-## Steps to config
+### Steps to config
 
 Roster upload and get the data based on the roster for the airline process:
 1. Install Php 8.2
